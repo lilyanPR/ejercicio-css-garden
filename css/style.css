@@ -1,0 +1,38 @@
+.page-wrapper{
+	width:60%;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+h1,h2,h3 {text-align: center}
+h1 { 
+color: pink;
+font-family: arial,helvetica;
+font-size: 45px;}
+
+h2 {
+	color: violet;
+	font-family: verdana;
+	font-size: 20px;
+}
+
+h3 {
+	color: violet;
+	font-family: verdana;
+	font-size: 20px;}
+p {
+	color: purple;
+	font-family: helvetica;
+	font-size: 18px;
+	text-align: justify;
+}
+
+body {
+    background-color: grey;
+    font-family: "Raleway", sans-serif;}
+    p{
+
+  font: oblique bold 120% cursive;}
+
+
+
+
